@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<skin version="1.1" name="Bekle" author="LongTail Video">
+
+        <components>
+                <component name="controlbar">
+                        <settings>
+                                <setting name="margin" value="0" />
+                                <setting name="fontsize" value="10" />
+                                <setting name="fontcolor" value="0x00b9ff"/>
+                                <setting name="buttoncolor" value="0xffffff"/>
+                        </settings>
+
+                        <layout>
+                                <group position="left">
+                                        <button name="play" />
+                                </group>
+                                <group position="center">
+                                        <slider name="time" />
+                                </group>
+                                <group position="right">
+                                        <button name="blank" />
+                                        <slider name="volume" />
+                                        <button name="fullscreen" />
+                                </group>
+                        </layout>
+
+                        <elements>
+                                <element name="background" src=" https://eratvonline.googlecode.com/svn/trunk/controlbar/cap.png " />
+                                <element name="blankButton" src=" https://eratvonline.googlecode.com/svn/trunk/controlbar/divider.png " />
+                                <element name="capLeft" src=" https://eratvonline.googlecode.com/svn/trunk/controlbar/cap.png " />
+                                <element name="capRight" src=" https://eratvonline.googlecode.com/svn/trunk/controlbar/cap.png " />
+                                <element name="divider" src=" https://eratvonline.googlecode.com/svn/trunk/controlbar/divider.png " />
+                                <element name="playButton" src=" https://eratvonline.googlecode.com/svn/trunk/controlbar/playButton.png " />
+                                <element name="playButtonOver" src=" https://eratvonline.googlecode.com/svn/trunk/controlbar/playButton.png " />
+                                <element name="pauseButton" src=" https://eratvonline.googlecode.com/svn/trunk/controlbar/pauseButton.png " />
+                                <element name="pauseButtonOver" src=" https://eratvonline.googlecode.com/svn/trunk/controlbar/pauseButtonOver.png " />
+                                <element name="prevButton" src=" https://eratvonline.googlecode.com/svn/trunk/controlbar/prevButton.png " />
+                                <element name="prevButtonOver" src=" https://eratvonline.googlecode.com/svn/trunk/controlbar/prevButtonOver.png " />
+                                <element name="nextButton" src=" https://eratvonline.googlecode.com/svn/trunk/controlbar/nextButton.png " />
+                                <element name="nextButtonOver" src=" https://eratvonline.googlecode.com/svn/trunk/controlbar/nextButtonOver.png " />
+                                <element name="timeSliderRail" src=" https://eratvonline.googlecode.com/svn/trunk/controlbar/timeSliderRail.png " />
+                                <element name="timeSliderBuffer" src=" https://eratvonline.googlecode.com/svn/trunk/controlbar/timeSliderBuffer.png " />
+                                <element name="timeSliderProgress" src=" https://eratvonline.googlecode.com/svn/trunk/controlbar/timeSliderProgress.png " />
+                                <element name="timeSliderCapLeft" src=" https://eratvonline.googlecode.com/svn/trunk/controlbar/timeSliderCapLeft.png " />
+                                <element name="timeSliderCapRight" src=" https://eratvonline.googlecode.com/svn/trunk/controlbar/timeSliderCapRight.png " />
+                                <element name="volumeSliderRail" src=" https://eratvonline.googlecode.com/svn/trunk/controlbar/volumeSliderRail.png " />
+                                <element name="volumeSliderProgress" src=" https://eratvonline.googlecode.com/svn/trunk/controlbar/volumeSliderProgress.png " />
+                                <element name="volumeSliderCapLeft" src=" https://eratvonline.googlecode.com/svn/trunk/controlbar/divider.png " />
+                                <element name="volumeSliderCapRight" src=" https://eratvonline.googlecode.com/svn/trunk/controlbar/divider.png " />
+                                <element name="fullscreenButton" src=" https://eratvonline.googlecode.com/svn/trunk/controlbar/fullscreenButton.png " />
+                                <element name="fullscreenButtonOver" src=" https://eratvonline.googlecode.com/svn/trunk/controlbar/fullscreenButtonOver.png " />
+                                <element name="normalscreenButton" src=" https://eratvonline.googlecode.com/svn/trunk/controlbar/normalscreenButton.png " />
+                                <element name="normalscreenButtonOver" src=" https://eratvonline.googlecode.com/svn/trunk/controlbar/normalscreenButtonOver.png " />
+                        </elements>
+                </component>
+               
+                <component name="display">
+                        <settings>
+                                <setting name="backgroundcolor" value="0x000000" />
+                                <setting name="bufferinterval" value="150" />
+                                <setting name="bufferrotation" value="90" />
+                        </settings>
+                        <elements>
+                                <element name="background" src=" https://eratvonline.googlecode.com/svn/trunk/controlbar/normalscreenButtonOver.png " />
+                                <element name="playIcon" src=" https://eratvonline.googlecode.com/svn/trunk/display/playIcon.png " />
+                                <element name="muteIcon" src=" https://eratvonline.googlecode.com/svn/trunk/display/muteIcon.png " />
+                                <element name=" errorIcon " src="https://eratvonline.googlecode.com/svn/trunk/display/bufferIcon.png" />
+                                <element name=" bufferIcon " src="https://eratvonline.googlecode.com/svn/trunk/display/bufferIcon.png" />
+                        </elements>
+                </component>
+               
+                <component name="dock">
+                        <settings>
+                                <setting name="fontcolor" value="0xffffff" />
+                        </settings>
+                        <elements>
+                                <element name="button" src=" https://eratvonline.googlecode.com/svn/trunk/dock/button.png " />
+                        </elements>
+                </component>
+               
+                <component name="playlist">
+                        <settings>
+                                <setting name="fontcolor" value="0xffffff" />
+                                <setting name="overcolor" value="0xffffff" />
+                                <setting name="activecolor" value="0x00adef" />
+                                <setting name="backgroundcolor" value="0x001319" />
+                                <setting name="thumbs" value="false" />
+                        </settings>
+                        <elements>
+                                <element name="item" src=" https://eratvonline.googlecode.com/svn/trunk/playlist/item.png " />
+                                <element name="itemOver" src=" https://eratvonline.googlecode.com/svn/trunk/playlist/itemOver.png " />
+                                <element name="sliderRail" src=" https://eratvonline.googlecode.com/svn/trunk/playlist/sliderRail.png " />
+                                <element name="sliderThumb" src=" https://eratvonline.googlecode.com/svn/trunk/playlist/sliderThumb.png " />
+                                <element name="sliderCapTop" src=" https://eratvonline.googlecode.com/svn/trunk/playlist/sliderCap.png " />
+                                <element name="sliderCapBottom" src=" https://eratvonline.googlecode.com/svn/trunk/playlist/sliderCap.png " />
+                        </elements>
+                </component>
+               
+                <component name="sharing">
+                        <elements>
+                                <element name="embedIcon" src="embedIcon.png" />
+                                <element name="embedScreen" src="embedScreen.png" />
+                                <element name="shareIcon" src="shareIcon.png" />
+                                <element name="shareScreen" src="shareScreen.png" />
+                        </elements>
+                </component>
+
+        </components>
+
+</skin>
+
