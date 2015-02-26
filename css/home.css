@@ -1,0 +1,8 @@
+/* Menu Category */
+.category{background-image:url('../images/menu-tab-repeat.png');background-color: #c1282b;} /*#cc3333;} */
+.categorycolor{background-color:#c1282b;}
+.active{background-color:#ABABAB;}
+
+/*Foto gallery thumb*/
+.thumb_box{width:215px;float:left;background-color:#333;height:139px;}
+.thumb_caption{background-image:url(../images/bg-black-transparent.png);color:#FFF;padding:10px;height:25px;position:relative;top:-39px;padding:5px;display:none;}
