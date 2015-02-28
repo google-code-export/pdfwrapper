@@ -1,0 +1,428 @@
+<rss version="2.0" xmlns:jwplayer="http://developer.longtailvideo.com/trac/" xmlns:media="http://search.yahoo.com/mrss/"> 
+	<channel> 
+		<title>Leon Fontaine Season 1 Playlist</title> 
+			<!--
+			***SHOW TEMPLATE: COPY ITEM BLOCK OUT OF COMMENT TO USE
+			<item> 
+				<title></title> 
+				<description></description>
+				<pubDate></pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leon/season4/LS04-0.mp4" />
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			
+			--><!--
+			***Pre-made Show blocks: Uncomment item blocks as the air date passes:
+			-->
+			
+			
+			
+			<item> 
+				<title>Your Authority</title> 
+				<description>Leon challenges viewers to understand and access the authority they have been given, through Jesus, to change their world.</description>
+				<pubDate>February 15, 2015</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season2/LFON02-20.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>You've Got An Answer</title> 
+				<description>Leon delivers an awesome message about the power of Holy Spirit to work through every area of our lives.</description>
+				<pubDate>February 8, 2015</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season2/LFON02-19.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>Accessing Inner Strength</title> 
+				<description>Leon explores a powerful prayer from Ephesians chapter 3.</description>
+				<pubDate>February 1, 2015</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season2/LFON02-18.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>State of Thankfulness</title> 
+				<description>Leon Fontaine wraps up his Changing of You Series with a timely message about living in a state of thankfulness and what fruit that can produce in life.</description>
+				<pubDate>January 25, 2015</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season2/LFON02-17.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>Discover Who You Are</title> 
+				<description>Leon Fontaine teaches that one of the most important things about changing yourself is discovering who you truly are in the eyes of God.</description>
+				<pubDate>January 18, 2015</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season2/LFON02-16.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>Meditating on God's Word</title> 
+				<description>Leon Fontaine continues his series with a message about the importance of meditating on God's Word to change your heart-beliefs.</description>
+				<pubDate>January 11, 2015</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season2/LFON02-15.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>God's Path for You</title> 
+				<description>Leon begins his series The Changing of You, with a message entitled God's Path for You.</description>
+				<pubDate>January 4, 2015</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season2/LFON02-14.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>Faith in Action</title> 
+				<description>Start the new year off right with this message from Leon Fontaine entitled, Faith in Action</description>
+				<pubDate>December 28, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season2/LFON02-13.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>God's Gift of Favour</title> 
+				<description>Leon Fontaine delivers a poinant and timely Christmas message</description>
+				<pubDate>December 21, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season2/LFON02-12.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>Living Your Purpose</title> 
+				<description>Today's Message by Leon Fontaine: Living Your Purpose</description>
+				<pubDate>December 14, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season2/LFON02-11.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>Amazing Grace, Incredible Faith</title> 
+				<description>Today's Message by Leon Fontaine: Grace &amp; Faith Working Together</description>
+				<pubDate>December 7, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season2/LFON02-10.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>Renewing Your Mind</title> 
+				<description>Today's Message by Leon Fontaine: Renewing Your Mind</description>
+				<pubDate>November 30, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season2/LFON02-09.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>The Story of Jesus</title> 
+				<description>Today's Message by Leon Fontaine: The Story of Jesus</description>
+				<pubDate>November 23, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season2/LFON02-08.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>You Can't Earn God's Love </title> 
+				<description>Today's Message by Leon Fontaine: You Can't Earn God's Love</description>
+				<pubDate>November 16, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season2/LFON02-07.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>The Control Center for Stress</title> 
+				<description>Today's Message by Leon Fontaine: The Control Centre for Stress</description>
+				<pubDate>November 9, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season2/LFON02-06.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>Cast Your Cares</title> 
+				<description>Today's Message by Leon Fontaine: Case Your Cares</description>
+				<pubDate>November 2, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season2/LFON02-05.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>Joy &amp; Stress</title> 
+				<description> In this series, "Help! I'm Stressed", Leon explores the way to achieve true joy admist life's stresses. </description>
+				<pubDate>October 26, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season2/LFON02-04.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>Raising Authentic Families</title> 
+				<description>Wrapping up our series, Leon delivers a must-watch teaching on Raising Authentic Families.</description>
+				<pubDate>October 19, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season2/LFON02-03.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>The Hidden Man</title> 
+				<description>Continuing with No Perfect Families, Leon teaches about The Hidden Man.</description>
+				<pubDate>October 12, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season2/LFON02-02.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>Stop Judging</title> 
+				<description>Leon begins this timely series, No Perfect Families, with a message called Stop Judging.</description>
+				<pubDate>October 5, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season2/LFON02-01.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>Because of the Cross</title> 
+				<description>In this special episode for Easter 2014 Leon teaches about the amazing grace made possible because of the Cross.</description>
+				<pubDate>April 6, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season1/LFON01-28.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>I Want a New Marriage Pt. 2</title> 
+				<description>Continuing his series, I Want a New Marriage, Leon shares advice for couples and singles about having dreams &amp; goals for relationships.</description>
+				<pubDate>March 30, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season1/LFON01-27.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>I Want a New Marriage Pt. 1</title> 
+				<description>Join Leon as he starts his new series, I Want a New Marriage!</description>
+				<pubDate>March 23, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season1/LFON01-26.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>Hearing from the Holy Spirit</title> 
+				<description>In this special and timely message, join Leon as he shares about the skill of hearing from Holy Spirit.</description>
+				<pubDate>March 16, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season1/LFON01-25.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>God's Secret Weapon</title> 
+				<description>Leon delivers a poignant message about God's Secret Weapon.</description>
+				<pubDate>March 9, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season1/LFON01-24.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>Fight &amp; Build</title> 
+				<description>Leon shares the two important steps to surviving &amp; thriving during the storms of life.</description>
+				<pubDate>March 2, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season1/LFON01-23.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>The Miracle Process Pt. 2</title> 
+				<description>Leon Fontaine delivers a two part series on The Miracle Process.</description>
+				<pubDate>February 23, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season1/LFON01-22.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>The Miracle Process Pt. 1</title> 
+				<description>Leon Fontaine delivers a two part series on The Miracle Process.</description>
+				<pubDate>February 16, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season1/LFON01-21.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>Protecting Your Relationships</title> 
+				<description>Leon Fontaine delivers a message about Protecting Your Relationships.</description>
+				<pubDate>February 9, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season1/LFON01-20.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>Your Potential</title> 
+				<description>Leon Fontaine delivers a two part series on Your Potential.</description>
+				<pubDate>January 26, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season1/LFON01-19.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>Being a Leader is Being a Follower</title> 
+				<description>Highlights from Springs Conference 2013 inspired this message, Spirit Contemporary Leaders</description>
+				<pubDate>January 19, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season1/LFON01-18.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>Unlocking Generosity Pt. 2</title> 
+				<description>Leon Fontaine delivers a though provoking series, Unlocking Generosity.</description>
+				<pubDate>January 12, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season1/LFON01-17.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>Unlocking Generosity Pt. 1</title> 
+				<description>Leon Fontaine delivers a though provoking series, Unlocking Generosity.</description>
+				<pubDate>January 5, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season1/LFON01-16.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>The Call Pt. 3</title> 
+				<description>Leon Fontaine delivers a three part series; The Call. Are we challenged by God to be much more than "Sunday Christians"? </description>
+				<pubDate>January 20, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season1/LFON01-15.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>The Call Pt. 2</title> 
+				<description>Leon Fontaine delivers a three part series; The Call. Are we challenged by God to be much more than "Sunday Christians"? </description>
+				<pubDate>January 20, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season1/LFON01-11.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>The Call Pt. 1</title> 
+				<description>Leon Fontaine delivers a three part series; The Call. Are we challenged by God to be much more than "Sunday Christians"? </description>
+				<pubDate>January 20, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season1/LFON01-10.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>Purpose Brings Passion Pt. 3</title> 
+				<description>Leon Fontaine delivers a three part series called Purpose Brings Passion.</description>
+				<pubDate>January 20, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season1/LFON01-09.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>Purpose Brings Passion Pt. 2</title> 
+				<description>Leon Fontaine delivers a three part series called Purpose Brings Passion.</description>
+				<pubDate>January 20, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season1/LFON01-08.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>Purpose Brings Passion Pt. 1</title> 
+				<description>Leon Fontaine delivers a three part series called Purpose Brings Passion.</description>
+				<pubDate>January 20, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season1/LFON01-07.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>The Cause Pt. 3</title> 
+				<description>Leon Fontaine delivers a three part series on The Cause – living for the cause of Christ.</description>
+				<pubDate>January 20, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season1/LFON01-06.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>The Cause Pt. 2</title> 
+				<description>Leon Fontaine delivers a three part series on The Cause – living for the cause of Christ.</description>
+				<pubDate>January 20, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season1/LFON01-05.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>The Cause Pt. 1</title> 
+				<description>Leon Fontaine delivers a three part series on The Cause – living for the cause of Christ.</description>
+				<pubDate>January 20, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season1/LFON01-04.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>Consistently Producing Miracles Pt. 3</title> 
+				<description>Leon Fontaine delivers a three part series on Consistently Producing Miracles.</description>
+				<pubDate>January 20, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season1/LFON01-03.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>Consistently Producing Miracles Pt. 2</title> 
+				<description>Leon Fontaine delivers a three part series on Consistently Producing Miracles.</description>
+				<pubDate>January 20, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season1/LFON01-02.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			<item> 
+				<title>Consistently Producing Miracles Pt. 1</title> 
+				<description>Leon Fontaine delivers a three part series on Consistently Producing Miracles.</description>
+				<pubDate>January 20, 2014</pubDate>
+				<media:content url="http://miraclechannel.http.internapcdn.net/miraclechannel/leonfontaine/season1/LFON01-01.mp4" />
+				<jwplayer:image>http://www.miraclechannel.ca/leonfontaine/images/leonfontainestill.jpg</jwplayer:image>
+				<jwplayer:provider>http</jwplayer:provider>    
+				<jwplayer:duration>1710</jwplayer:duration> 
+			</item>
+			
+	</channel> 
+</rss>
